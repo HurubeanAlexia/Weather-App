@@ -8,8 +8,7 @@ Features
 
 Technologies Used: HTML, CSS, JavaScript
 
-API Used
--OpenWeatherMap API for fetching weather data
+API Used: OpenWeatherMap API for fetching weather data
 
 How to Use
 1. Clone or download the repository to your local machine.
