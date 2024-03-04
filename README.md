@@ -6,10 +6,7 @@ Features
 2. The application displays the current temperature, humidity, wind speed, and weather icon for the searched city.
 3. Weather icons change based on the weather condition of the searched city (e.g., cloudy, sunny, rainy).
 
-Technologies Used
--HTML
--CSS
--JavaScript
+Technologies Used: HTML, CSS, JavaScript
 
 API Used
 -OpenWeatherMap API for fetching weather data
